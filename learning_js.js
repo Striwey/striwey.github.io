@@ -1,0 +1,1 @@
+var name = window. prompt("Write the text to evaluate: ");
