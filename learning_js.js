@@ -1,5 +1,5 @@
 
-var texto = window. prompt("Write the text to evaluate: "), palindromos, aux = "";
+var texto = window. prompt("Write the text to evaluate: "), aux = "";
 texto = texto.split(" ")
 
 let aux, aux2, lista = [], str_reverse = "";
