@@ -16,4 +16,4 @@ for (let a = 0; a < texto.length; a++){
 }
 
 
-document.getElementById('demo').innerHTML = lista.toString();
+document.getElementById('p1').innerHTML = lista.toString();
