@@ -1,8 +1,6 @@
 let aux, aux2, lista = [], str_reverse = "";
-var texto = prompt("Write the text to evaluate: ");
+var texto = "ese aviva cualquiera";
 texto = texto.split(" ")
-
-
 
 for (let a = 0; a < texto.length; a++){
     aux = texto[a]
