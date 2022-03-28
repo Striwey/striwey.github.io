@@ -1,8 +1,8 @@
-
-var texto = window. prompt("Write the text to evaluate: "), aux = "";
+let aux, aux2, lista = [], str_reverse = "";
+var texto = prompt("Write the text to evaluate: ");
 texto = texto.split(" ")
 
-let aux, aux2, lista = [], str_reverse = "";
+
 
 for (let a = 0; a < texto.length; a++){
     aux = texto[a]
