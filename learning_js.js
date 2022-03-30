@@ -1,6 +1,6 @@
 let aux, aux2, lista = [], str_reverse = "";
 
-var texto = prompt('Ingrese el texto:');
+var texto = prompt('Ingrese el texto:');//comentary
 
 texto = texto.split(" ");
 
